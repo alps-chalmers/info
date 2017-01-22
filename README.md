@@ -2,7 +2,7 @@
 
 ## Contact
 
-### Team hangout
+### Team 
 
 * [Google group](https://groups.google.com/forum/#!forum/alps-chalmers)
 
@@ -10,7 +10,7 @@
 
 * [Slack](https://ltlslackers.slack.com/messages/general/)
 
-### Individual contact
+### Individual
 
 * [Contact mastersheet](https://docs.google.com/spreadsheets/d/1fzJtyLg3bTxaarZ1YCEAoWPhp_1DXHrv45Bq8KPeABQ/)
 
