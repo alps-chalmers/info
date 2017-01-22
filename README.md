@@ -1,5 +1,7 @@
 # Quick info
 
+## Contact
+
 ### Team hangout
 
 * [Google group](https://groups.google.com/forum/#!forum/alps-chalmers)
@@ -12,3 +14,6 @@
 
 * [Contact mastersheet](https://docs.google.com/spreadsheets/d/1fzJtyLg3bTxaarZ1YCEAoWPhp_1DXHrv45Bq8KPeABQ/)
 
+## Index
+* [Tools we use](tools.md)
+* [Drive folder](#)
