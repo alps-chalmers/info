@@ -18,3 +18,4 @@
 * [Meeting minutes](https://github.com/alps-chalmers/mom)
 * [Tools we use](tools.md)
 * [Drive folder](https://drive.google.com/drive/folders/0B6xtgNWz48FdS3BFM2hLSHZqZms?usp=sharing)
+* [Calendar (ical format)](https://calendar.google.com/calendar/ical/09k1alrfgq7f0a6ek0kot4514c%40group.calendar.google.com/public/basic.ics)
